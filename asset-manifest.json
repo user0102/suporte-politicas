@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suporte-politicas/static/css/main.ee58f6ed.chunk.css",
+    "main.js": "/suporte-politicas/static/js/main.f2955111.chunk.js",
+    "main.js.map": "/suporte-politicas/static/js/main.f2955111.chunk.js.map",
+    "runtime-main.js": "/suporte-politicas/static/js/runtime-main.20ceb8f3.js",
+    "runtime-main.js.map": "/suporte-politicas/static/js/runtime-main.20ceb8f3.js.map",
+    "static/js/2.7949c839.chunk.js": "/suporte-politicas/static/js/2.7949c839.chunk.js",
+    "static/js/2.7949c839.chunk.js.map": "/suporte-politicas/static/js/2.7949c839.chunk.js.map",
+    "index.html": "/suporte-politicas/index.html",
+    "precache-manifest.b16544cb94f9a7431305498f83c89cb7.js": "/suporte-politicas/precache-manifest.b16544cb94f9a7431305498f83c89cb7.js",
+    "service-worker.js": "/suporte-politicas/service-worker.js",
+    "static/css/main.ee58f6ed.chunk.css.map": "/suporte-politicas/static/css/main.ee58f6ed.chunk.css.map",
+    "static/js/2.7949c839.chunk.js.LICENSE.txt": "/suporte-politicas/static/js/2.7949c839.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/suporte-politicas/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ceb8f3.js",
+    "static/js/2.7949c839.chunk.js",
+    "static/css/main.ee58f6ed.chunk.css",
+    "static/js/main.f2955111.chunk.js"
+  ]
+}

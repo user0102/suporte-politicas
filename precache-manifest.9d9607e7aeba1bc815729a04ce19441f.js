@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b3dcf4800ed0a9d6732e6468db89c1b",
+    "revision": "ea5e7082640ddde502e9529ead742811",
     "url": "/suporte-politicas/index.html"
   },
   {
-    "revision": "367b354cb762d8096e68",
-    "url": "/suporte-politicas/static/css/main.ee58f6ed.chunk.css"
+    "revision": "4f7941f85fc520844d47",
+    "url": "/suporte-politicas/static/css/main.33385e53.chunk.css"
   },
   {
     "revision": "f5e528ad4c75a9fcdb5c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suporte-politicas/static/js/2.7949c839.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "367b354cb762d8096e68",
+    "revision": "4f7941f85fc520844d47",
     "url": "/suporte-politicas/static/js/main.f2955111.chunk.js"
   },
   {

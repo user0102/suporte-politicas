@@ -1,0 +1,23 @@
+.tar {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2em;
+    border: 1px solid aliceblue;
+    border-radius: 1em;
+    box-shadow: 2px 2px 5px #999;
+}
+
+.title {
+    text-align: center;
+    font-size: 2em;
+}
+
+.parrafo {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.link {
+    text-align: center;
+    margin-bottom: 4em;
+}
